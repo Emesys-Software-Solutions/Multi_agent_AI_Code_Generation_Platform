@@ -15,6 +15,7 @@ A LangGraph-powered multi-agent AI platform that automates code generation, docu
 - [System Workflow](#-system-workflow)
 - [Technology Stack](#-technology-stack)
 - [Project Architecture](#-project-architecture)
+- [Project Demo](#-project-demo)
 - [Project Screenshots](#-project-screenshots)
 - [Business Impact](#-business-impact)
 
@@ -134,8 +135,19 @@ Unified Response
 ---
 
 ## 🎥 Project Demo
+<p align="center">
+  <a href="https://vimeo.com/1211934389">
+    <img
+      src="images/multi-agent-ai-thumbnail.png"
+      alt="Watch Multi-Agent AI Code Generation Platform Demo"
+      width="900"
+    />
+  </a>
+</p>
 
-▶️ [Watch the Project Demo on Vimeo](https://vimeo.com/1211934389)
+<p align="center">
+  ▶️ <b>Click the thumbnail to watch the full project demo on Vimeo</b>
+</p>
 
 ---
 
