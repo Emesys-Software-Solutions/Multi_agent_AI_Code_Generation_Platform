@@ -139,32 +139,32 @@ Unified Response
 ---
 
 # 📷 Project Screenshots
-<!--
-## 🧠 Supervisor Dashboard
+
+## 🧠 User Dashboard
 
 <p align="center">
-  <img src="images/supervisor-dashboard.png" alt="Supervisor Dashboard" width="900">
+  <img src="images/User_dashboard.png" alt="Supervisor Dashboard" width="900">
 </p>
 
 ---
 
-## 💻 AI Code Generation
+## 💻 AI Outcome
 
 <p align="center">
-  <img src="images/code-generation.png" alt="Code Generation" width="900">
+  <img src="images/Outcome.png" alt="Code Generation" width="900">
 </p>
 
 ---
 
-## 📄 Document Analysis
+## 📄 Document Generation
 
 <p align="center">
-  <img src="images/document-analysis.png" alt="Document Analysis" width="900">
+  <img src="images/Generated_Pdf.png" alt="Document Analysis" width="900">
 </p>
 
 ---
 
-## 📊 Dataset Analysis
+## 📊 Documentation details
 
 <p align="center">
   <img src="images/dataset-analysis.png" alt="Dataset Analysis" width="900">
@@ -172,28 +172,12 @@ Unified Response
 
 ---
 
-## 🔀 Multi-Agent Workflow
+## 🔀 Multi-Agent Status
 
 <p align="center">
-  <img src="images/multi-agent-workflow.png" alt="Multi-Agent Workflow" width="900">
+  <img src="images/AgentStatus.png" alt="Multi-Agent Workflow" width="900">
 </p>
 
----
-
-## 🛠 Code Review & Debugging
-
-<p align="center">
-  <img src="images/code-review.png" alt="Code Review" width="900">
-</p>
-
----
-
-## 📈 Analytics Dashboard
-
-<p align="center">
-  <img src="images/analytics-dashboard.png" alt="Analytics Dashboard" width="900">
-</p>
--->
 ---
 
 # 📊 Business Impact
