@@ -132,9 +132,10 @@ Supervisor Agent
 Unified Response
 ```
 ---
+
 ## 🎥 Project Demo
 
-▶️ [Watch the demo](assets/demo_1.mp4)
+▶️ [Watch the Project Demo on Vimeo](https://vimeo.com/1211934389)
 
 ---
 
