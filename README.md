@@ -143,7 +143,7 @@ Unified Response
 ## 🧠 User Dashboard
 
 <p align="center">
-  <img src="images/User_dashboard.png" alt="Supervisor Dashboard" width="900">
+  <img src="images/User_dashboard.png" alt="User Dashboard" width="900">
 </p>
 
 ---
@@ -151,7 +151,7 @@ Unified Response
 ## 💻 AI Outcome
 
 <p align="center">
-  <img src="images/Outcome.png" alt="Code Generation" width="900">
+  <img src="images/Outcome.png" alt="AI Outcome" width="900">
 </p>
 
 ---
@@ -159,7 +159,7 @@ Unified Response
 ## 📄 Document Generation
 
 <p align="center">
-  <img src="images/Generated_Pdf.png" alt="Document Analysis" width="900">
+  <img src="images/Generated_Pdf.png" alt="Document Generation" width="900">
 </p>
 
 ---
@@ -167,7 +167,7 @@ Unified Response
 ## 📊 Documentation details
 
 <p align="center">
-  <img src="images/dataset-analysis.png" alt="Dataset Analysis" width="900">
+  <img src="images/GeneratedPDF2.png" alt="Documentation details" width="900">
 </p>
 
 ---
@@ -175,7 +175,7 @@ Unified Response
 ## 🔀 Multi-Agent Status
 
 <p align="center">
-  <img src="images/AgentStatus.png" alt="Multi-Agent Workflow" width="900">
+  <img src="images/AgentStatus.png" alt="Multi-Agent Status" width="900">
 </p>
 
 ---
