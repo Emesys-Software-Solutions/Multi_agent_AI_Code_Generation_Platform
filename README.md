@@ -6,17 +6,20 @@ A LangGraph-powered multi-agent AI platform that automates code generation, docu
 
 ---
 
-## 📑 Table of Contents
+# 📑 Table of Contents
 
-- Project Overview
-- Problem Statement
-- Our Solution
-- Key Features
-- System Workflow
-- Technology Stack
-- Project Architecture
+- [Project Overview](#-project-overview)
+- [Problem Statement](#-problem-statement)
+- [Our Solution](#-our-solution)
+- [Key Features](#-key-features)
+- [System Workflow](#-system-workflow)
+- [Technology Stack](#-technology-stack)
+- [Project Architecture](#-project-architecture)
+- [Project Screenshots](#-project-screenshots)
+- [Business Impact](#-business-impact)
 
 ---
+
 
 # 🤖 Project Overview
 
@@ -129,6 +132,11 @@ Supervisor Agent
 Unified Response
 ```
 ---
+## 🎥 Project Demo
+
+▶️ [Watch the demo](assets/demo.mp4)
+
+---
 
 # 📷 Project Screenshots
 <!--
@@ -208,17 +216,6 @@ Unified Response
 
 ---
 
-# 👥 Project Team
-
-<!-- This section is under development -->
-
----
-
-# 📄 License
-
-<!-- This section is under development -->
-
----
 
 # 🌍 Vision
 
