@@ -180,7 +180,7 @@ Unified Response
 ## 📄 Document Generation
 
 <p align="center">
-  <img src="images/Generated_Pdf.png" alt="Document Generation" width="900">
+  <img src="images/Generated_Pdf.png" alt="Document Generation" width="600">
 </p>
 
 ---
@@ -188,7 +188,7 @@ Unified Response
 ## 📊 Documentation details
 
 <p align="center">
-  <img src="images/GeneratedPDF2.png" alt="Documentation details" width="900">
+  <img src="images/GeneratedPDF2.png" alt="Documentation details" width="600">
 </p>
 
 ---
@@ -196,7 +196,7 @@ Unified Response
 ## 🔀 Multi-Agent Status
 
 <p align="center">
-  <img src="images/AgentStatus.png" alt="Multi-Agent Status" width="900">
+  <img src="images/AgentStatus.png" alt="Multi-Agent Status" width="500">
 </p>
 
 ---
