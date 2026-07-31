@@ -169,6 +169,14 @@ Unified Response
 
 ---
 
+## 💻 Operation Dashboard
+
+<p align="center">
+  <img src="images/Operation_dropdown.png" alt="Operation Dashboard" width="900">
+</p>
+
+---
+
 ## 📄 Document Generation
 
 <p align="center">
