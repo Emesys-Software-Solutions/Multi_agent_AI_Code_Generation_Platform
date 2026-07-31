@@ -172,7 +172,7 @@ Unified Response
 ## 💻 Operation Dashboard
 
 <p align="center">
-  <img src="images/Operation_dropdown.png" alt="Operation Dashboard" width="900">
+  <img src="images/Operation_dropdown.jpeg" alt="Operation Dashboard" width="900">
 </p>
 
 ---
